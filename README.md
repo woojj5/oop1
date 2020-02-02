@@ -8,4 +8,6 @@
 
 결과물 
 
+<img src = "https://user-images.githubusercontent.com/34640735/73604688-0b1e2980-45d8-11ea-86e3-076387e46491.png"> </img>
+
 구현한 방식
